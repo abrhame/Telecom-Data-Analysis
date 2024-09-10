@@ -7,7 +7,7 @@ This repository contains scripts and analyses for understanding user behavior an
 1. **User Overview Analysis**
 2. **User Engagement Analysis**
 
-## Table of Contents
+## Table of Contents    
 
 1. [User Overview Analysis](#user-overview-analysis)
 2. [User Engagement Analysis](#user-engagement-analysis)
